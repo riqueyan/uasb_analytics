@@ -1,4 +1,5 @@
 #Dataset
+Contiene La Informacion del consumo de los clientes en un Restaurante/Pub
 9 userprofile
 Instances: 138
 Attributes: 19
