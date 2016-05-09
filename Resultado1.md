@@ -5,4 +5,4 @@ El resultado obtenido fue que el valor principal para el consumo de bebidas es e
  
  viudo = abstemio
  casado = bebedor social
- Soltero =
+ Soltero = si fuma segun sus intereses sera bebedor social u ocacional
